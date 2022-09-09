@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ahmed Negm</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednegm5&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednegm5" /> </p>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=AhmedNegm5&label=Profile%20views&color=0e75b6&style=plastic" alt="AhmedNegm5" /> 
+	</a>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednegm5" alt="ahmednegm5" /></a> </p>
 
-- 🌱 I’m currently learning **Computer science**
+<picture> <img align="right" src="https://github.com/AhmedNegm5/AhmedNegm5/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 📫 How to reach me **a.negm1231@gmail.com**
+- :school: I am a `Junior` at [Faculty of Computers & Informatics at Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en).
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
