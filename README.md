@@ -5,7 +5,7 @@
 	</a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednegm5" alt="ahmednegm5" /></a> </p>
+
 
 <picture> <img align="right" src="https://github.com/AhmedNegm5/AhmedNegm5/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 	
@@ -55,10 +55,45 @@
 
 </p>
 
+---
 
 
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmednegm5&show_icons=true&locale=en" alt="ahmednegm5" /></p>
+----	
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednegm5&" alt="ahmednegm5" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedNegm5&theme=tokyonight_duo" alt="Ahmed Negm" /></p>
+
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Ahmed Negm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedNegm5&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedNegm5&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Ahmed Negm" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+----
+
+<a href="https://github.com/AhmedNegm5"><img alt="Ahmed Negm's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AhmedNegm5&custom_title=AhmedNegm5's%20Contribution%20Graph&theme=react-dark" /></a>
+ 
+</details>
+
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+----
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmedNegm5&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Ahmed Negm" /></a> </p>
+	
+</details>
